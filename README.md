@@ -48,7 +48,7 @@ Customer churn prediction is crucial for telecom companies to retain customers a
 
 ## Dataset
 
-The dataset used for this project contains information on customer usage, service complaints, demographic details, and churn status. [Include a link to the dataset or instructions on how to obtain it, if applicable.]
+The dataset used for this project contains information on customer usage, service complaints, demographic details, and churn status. [dataset-https://drive.google.com/drive/folders/1_uCLNkKkoI2UtHPZocdoovG5TnYFrSyV]
 
 ## Results
 
@@ -64,6 +64,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 
-- [Any libraries, tools, or datasets you used]
+- dataset-ChurnData
 
 ---
